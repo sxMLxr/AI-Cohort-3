@@ -17,7 +17,11 @@ I joined this cohort via VetsinTech ~
 I am was part of Cohort #3 at the AI Academy and meet twice weekly for 50 weeks to work collaboratively on scientific programming in Python, 
 Data Mining and Visualization, AI, and Machine Learning.
 Table of Contents
-1- Computer Programming with Python (January 9 - March 17 2023)   //seperate file
-2- Data Mining and Visualization (April 3 - June 16 2023)         //seperate file
+
+1- Computer Programming with Python (January 9 - March 17 2023)
+
+2- Data Mining and Visualization (April 3 - June 16 2023)       
+
 3- Artificial Intelligence (June 26 - September 8 2023) 
+
 4- Machine Learning (September 18 - December 1 2023)
