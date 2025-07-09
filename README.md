@@ -1,6 +1,4 @@
 Files from Cohort 3 of AI Academy hosted by NC STATE UNIVERSITY
-
-
 Add files and folders from 2020-2022
 
 North Carolina State Univesity - AI COHORT #3
@@ -18,10 +16,12 @@ I am was part of Cohort #3 at the AI Academy and meet twice weekly for 50 weeks 
 Data Mining and Visualization, AI, and Machine Learning.
 Table of Contents
 
-1- Computer Programming with Python (January 9 - March 17 2023)
-
-2- Data Mining and Visualization (April 3 - June 16 2023)       
-
-3- Artificial Intelligence (June 26 - September 8 2023) 
-
-4- Machine Learning (September 18 - December 1 2023)
+1- Computer Programming with Python (January 9 - March 17 2022)
+      
+2- Data Mining and Visualization (April 3 - June 16 2022)       
+      sxMLxr/CED-AIA-DATAMIN-Spring_2022
+      
+3- Artificial Intelligence (June 26 - September 8 2022) 
+        **** you are currently here 
+4- Machine Learning (September 18 - December 1 2022)
+        **** you are currently here 
