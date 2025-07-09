@@ -22,6 +22,10 @@ Table of Contents
       sxMLxr/CED-AIA-DATAMIN-Spring_2022
       
 3- Artificial Intelligence (June 26 - September 8 2022) 
+
         **** you are currently here 
+        
 4- Machine Learning (September 18 - December 1 2022)
+
         **** you are currently here 
+
